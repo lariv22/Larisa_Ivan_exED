@@ -1,5 +1,5 @@
 package entornos;
-
+ 
 import java.util.Scanner;
 
 public class ConvertidorTemperatura {
